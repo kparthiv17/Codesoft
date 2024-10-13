@@ -29,7 +29,7 @@ class user_bank implements atm
         }
         else
         {
-            System.out.println("you have INSUFFICIENT balance ");
+            System.out.println("you have been INSUFFICIENT balance ");
         }
     }
 
